@@ -1,0 +1,118 @@
+Basic - Cloud intro
+==================
+
+What is Cloud ?
+
+Storage -> Device (HardWare)
+
+Sd card , Pendrive , HHD ,SSD -> Physical - Store (Pic,Aud,Vid,Txt) - Data
+
+What is Data ? 
+Info - Data 
+Datas - Collectio Of Info
+
+Ex : Yoga / 6380255997
+    Sandy / 9176686844
+
+Physical Device -> Make - Manage - Maintain - Time / Cost  -> Device Store (Data)
+
+Physical - Ompremises 
+
+Cloud - Device -> G-drive / i cloud / Onedrive
+
+Yoga - Sky 
+
+pic,Doc,Aud,Vid 
+
+Colud -> IT Company 
+
+Project - Client 
+Requirement -> Need -> Dev
+                          Test
+                            Support/Deploy
+
+Dev -> Code <-> Any Program Language C,C++,Java,Python (App - Application) - > End Users 
+   Test - Approve
+      
+
+Dev
+Test
+Datacenter 
+
+Dev - Person
+Test - Person
+Data Center - Device 
+
+What are the things in Datacenter ?
+
+Server - Storage (internal) -> Application (.EXE/.APK/.IOS) -Api- DB (Data base)
+Network
+Security
+Database
+
+Database -> Store
+
+Datas -> All 
+
+Five Engine :-
+Server 
+Network
+Security
+Storage 
+Database
+
+Space - Build - Cost - Time - Labour - Manage -> Own 
+
+Rental  -> CSp Cloud Service Providers -> DataCenter
+
+Cloud Platform,Cloud Computing,Internet based Service 
+
+Cloud Computing is Also Called as RIR
+
+REmote 
+Internet 
+Rental 
+
+
+=================================================================
+
+Cloud Computing :-
+Cloud Service Models :-
+
+IAAS -> Server / Network / Storage 
+PAAS -> Security / Database 
+SAAS -> Application
+
+Deploy 
+======
+
+Download  Deploy    Update
+ Install              Enhance 
+
+
+Public 
+Private 
+
+================================================================
+
+Linux  - Cloud 
+
+onpremises -> 
+VM - Cloud 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
