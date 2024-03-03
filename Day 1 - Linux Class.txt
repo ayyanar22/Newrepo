@@ -1,0 +1,86 @@
+Server/VM/instance/PC/Laptop
+
+OS -- operating system
+
+windows(GUI) --- micrsoft
+
+Linux(CLI) ---Linus Torvalds
+
+GUI --- graphical user interface
+
+CLI -- command-line interface
+======================================
+Linux advantage 
+Open source 
+secured
+multi user and mulit tasking 
+=======================================
+Execution 
+windows 
+User --> GUI---> Kernel--->hardware  os and hardware 
+
+linux 
+User ---> Shell-->Kernel---> hardware    bash
+
+Kernel will act as a intermediate between the hardware and OS (operating system)
+
+Shell will act as a intermediate between the user and OS (operating system)
+
+Therer are 8 types of shells :
+1.Bourne Shell (sh)
+2.GNU Bourne-Again Shell (bash)  --> We will be using Bash shell
+3.C Shell (csh)
+4.korn Shell (ksh)
+5.Shell (zsh)
+
+
+We will be using Bash shell:
+
+What does bash means?
+Bash (Bourne Again Shell) is the free and enhanced version of the Bourne shell distributed with Linux and GNU operating systems.
+
+What bash is used for?
+People use Bash when they want to control their computer or OS without having to navigate menus, options, and windows within a GUI. 
+As we pointed out earlier, with CLIs like Bash, you usually don't even need to use your mouse. 
+You can navigate through your computer's OS without your fingers ever leaving your keyboard 
+
+Shell Basics :
+1.Commands  ---> To run 
+Eg: ls --> will  list the directory and file names
+
+2.Options   ---> To change the behaviour of the commands
+Eg : ls -l ---> will list in details of the directory and folders
+
+3.Arguments ---> Which are the target of the commands
+Eg: Ls -l downloads 
+Ls is a comment
+L is a options 
+Downloads will be a arguments.
+
+Commends :
+
+Ls -- Will list the directory contents 
+
+Ls -a ---> will show the hidden files and directory.
+
+Ls -l or ll ---> will list the details of the folders ( eg: with date and permissions)
+
+ls "directory name or file name" --->  will show all the files under the directory or file.
+Eg : ls /boot ---> will show the files under "boot"
+
+ls -l "directory name or file name" --> will show all the details of the folder under the directory or file.
+Eg : ls -l /boot ---> Will show all the details(permisson, date, time, file name) of the file under "boot"
+
+su---> switch user (To switch from one user to another user)
+Synext : su - username 
+Eg : su -root
+
+sudo - super user 
+
+Root user ---> Will have all the access 
+
+pwd ----> present working directory or print working directory 
+
+logout or exit or ctrl+d ---> will logout the current user 
+
+In Every terminal backend bash shell will be running to check that we need user "ps" commend 
